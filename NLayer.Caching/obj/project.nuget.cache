@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "19Xc57liVk7nZoeYCBvdhiXHPCsfuzmIYG3Ev+RzX9eUIN5NaD7YCZDv6jtSXg6AxRfZ7kIVAPwRtBsOhy/HEw==",
+  "dgSpecHash": "zbLw+KaqNXT3fM6SZfamSuhkMdX/qx9CoQjhbtWKURFTojaQCeyPvE5yWNgoW0+3y68PdpIiKhnE4kndDprdBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kerii\\Documents\\GitHub\\.Net-Web-Api-N-Layer\\NLayer.Caching\\NLayer.Caching.csproj",
+  "projectFilePath": "C:\\Users\\TR\\source\\repos\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

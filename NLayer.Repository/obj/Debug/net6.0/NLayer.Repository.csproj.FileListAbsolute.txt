@@ -31,3 +31,5 @@ C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Repository\obj\Debug
 C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
 C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
 C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache
+C:\Users\TR\source\repos\NLayerApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
+C:\Users\TR\source\repos\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache
