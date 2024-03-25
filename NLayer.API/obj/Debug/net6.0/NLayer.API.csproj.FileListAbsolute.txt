@@ -146,3 +146,9 @@ C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.API\obj\Debug\net6.0
 C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.API\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.API\bin\Debug\net6.0\NLayer.Caching.dll
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.API\bin\Debug\net6.0\NLayer.Caching.pdb
