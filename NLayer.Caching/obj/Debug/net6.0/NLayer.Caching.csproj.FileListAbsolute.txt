@@ -10,3 +10,15 @@ C:\Users\TR\source\repos\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Cachin
 C:\Users\TR\source\repos\NLayerApp\NLayer.Caching\obj\Debug\net6.0\refint\NLayer.Caching.dll
 C:\Users\TR\source\repos\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
 C:\Users\TR\source\repos\NLayerApp\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.deps.json
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.dll
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.pdb
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfoInputs.cache
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfo.cs
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.CoreCompileInputs.cache
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.sourcelink.json
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.dll
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Caching\obj\Debug\net6.0\refint\NLayer.Caching.dll
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
+C:\Users\kerii\Documents\GitHub\.Net-Web-Api-N-Layer\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll
